@@ -1,2 +1,2 @@
-# Data-Mining
-Repositório para compartilhar alguns scripts que uso para mineiração de dados utilizando R e Python
+# Data Science
+Repositório para compartilhar alguns scripts sobre estudos envolvendo ciência de dados
